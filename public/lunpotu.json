@@ -1,0 +1,17 @@
+{"success":true,
+    "data":[
+        {
+            "id":1,
+            "image":"http://liangcang-material.alicdn.com/prod/upload/9524a0a9692043b9b0b15e5a1e2507c4.jpg"
+        },
+        {
+            "id":2,
+            "image":"http://liangcang-material.alicdn.com/prod/upload/b58e386923f04685a0697574f106ce7b.jpg"
+        },
+        {
+            "id":3,
+            "image":"http://liangcang-material.alicdn.com/prod/upload/4243431c5e2e4f82a9b4180fc435ff47.jpg"
+        }
+    ]
+
+}
